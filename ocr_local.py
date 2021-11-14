@@ -10,7 +10,7 @@ from requests.models import Response
 # ================
 # 金鑰 端點 區域
 # ================
-key = "29ae887d68324e71a1dad692c44e1369"
+key = ""
 region = 'westus2'
 endpoint = 'https://aien140001visionservice.cognitiveservices.azure.com/'
 endpointUrl=f'{endpoint}vision/v3.0/ocr'
